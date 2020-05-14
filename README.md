@@ -1,6 +1,4 @@
-# webProg
-
-Beadandó: PC Shop
+# PC Shop
 
 Regisztrációs, Login felületes böngészhető Online PC bolt megrendelések feldolgozásával, teljes admin felülettel, eladói és felhasználói felülettel.
 
